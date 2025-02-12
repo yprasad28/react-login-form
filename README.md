@@ -34,6 +34,8 @@ Today, I took a big step in my React journey by building a functional login form
 
   - Displayed appropriate alerts for successful and failed login attempts.
 
+ ![image](Screenshot 2025-02-12 164558.png)
+
 
 
 4. **Styling and Layout:**
