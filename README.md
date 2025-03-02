@@ -2,47 +2,24 @@
 
 
 
-# 🌟 Day 15: Building a React Login Form 🌟
 
 
 
-Today, I took a big step in my React journey by building a functional login form component. Here's what I accomplished:
+🚀 Day 17 & 18: Creating a Secure Login Form with JWT Authentication! 🌟
+
+Over the past couple of days, I worked on creating a login form with JWT (JSON Web Token) authentication. Implementing JWT authentication ensures secure user sessions and enhances overall application security.
+
+Key Features:
+
+User-Friendly Login Form: Developed an intuitive and user-friendly login form.
+
+JWT Authentication: Integrated JWT authentication for secure access.
+
+Token Storage: Stored the JWT token in both localStorage for persistent storage and sessionStorage for temporary session-based storage.
+
+Smooth User Experience: Ensured a seamless user experience with robust security measures.
 
 
-
-1. **State Management:**
-
-  - Utilized the `useState` hook to manage the state for username and password inputs.
-
-  - Leveraged controlled components to handle user input and update state accordingly.
-
-
-
-2. **Handling User Inputs:**
-
-  - Created functions `enterUser` and `enterPassword` to handle changes in the username and password fields.
-
-  - Captured user input and updated the state in real-time.
-
-
-
-3. **User Authentication Logic:**
-
-  - Defined user credentials within the component for simplicity.
-
-  - Implemented a `loginClicked` function to validate the entered username and password.
-
-  - Displayed appropriate alerts for successful and failed login attempts.
-
-
-
-
-
-4. **Styling and Layout:**
-
-  - Designed a simple yet effective user interface with a login card, input fields, and a login button.
-
-  - Added an image and a "Forget Password?" link for a complete login experience.
 
 
 ![image](https://github.com/yprasad28/react-login-form/blob/904a63c9c3f8eb4d7b39c5bd3b2f1d773c4880f2/Screenshot%202025-02-12%20164558.png)
