@@ -1,0 +1,28 @@
+/* .homeApp{
+    background-color: black;
+    height: 100vh;
+} */
+
+.container{
+    background-color: black;
+    color: white;
+}
+
+span{
+    color: yellow;
+   
+}
+
+.loggined{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.image{
+    height: 60vh;
+    width: 40vw;
+}
+
+.button{
+    cursor: pointer;
+}

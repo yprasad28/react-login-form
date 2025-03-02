@@ -49,6 +49,7 @@
   padding: 10px;
 
   text-align: center;
+  
 
 }
 
@@ -98,6 +99,6 @@ a{
   
 }
 
-h1,p{
+h1,p,h2{
   color: white;
 }
